@@ -250,7 +250,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ir110.kicad_pro",
+    "filename": "STM32-USBc.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -366,7 +366,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Référence"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -410,7 +410,7 @@
   },
   "sheets": [
     [
-      "05e5346e-96a8-40c6-8f99-0601ea95d979",
+      "cbd5a7da-407b-4de2-bd9e-9cdebe4da750",
       "Root"
     ]
   ],

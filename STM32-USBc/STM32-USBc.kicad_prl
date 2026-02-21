@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "ir110.kicad_prl",
+    "filename": "STM32-USBc.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

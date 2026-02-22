@@ -4584,6 +4584,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 66.04) (xy 247.65 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57dd5f8f-c9b0-4ad0-b9e4-26800a27d3a0")
+	)
+	(wire
+		(pts
 			(xy 132.08 149.86) (xy 135.89 149.86)
 		)
 		(stroke
@@ -4911,16 +4921,6 @@
 			(type default)
 		)
 		(uuid "901517d7-e680-4fba-90eb-ab64ff8eddeb")
-	)
-	(wire
-		(pts
-			(xy 243.84 66.04) (xy 247.65 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9041c0e6-11d3-4bd6-bf44-91c8998e3b46")
 	)
 	(wire
 		(pts
@@ -5866,7 +5866,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 229.87 30.988 90)
 			(effects
 				(font
@@ -5935,7 +5935,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 127 116.84 0)
 			(effects
 				(font
@@ -5993,7 +5993,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13421657-2ca1-4480-8584-6e605d2320a4")
-		(property "Reference" "C7"
+		(property "Reference" "C9"
 			(at 223.52 33.0199 0)
 			(effects
 				(font
@@ -6011,7 +6011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 220.6752 38.1 0)
 			(effects
 				(font
@@ -6047,7 +6047,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C7")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -6063,7 +6063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1468bacc-b821-4d34-a8ca-55e40654f44c")
-		(property "Reference" "C5"
+		(property "Reference" "C7"
 			(at 127 34.2899 0)
 			(effects
 				(font
@@ -6081,7 +6081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 124.1552 39.37 0)
 			(effects
 				(font
@@ -6117,7 +6117,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C5")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -6151,7 +6151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 141.732 138.43 90)
 			(effects
 				(font
@@ -6218,7 +6218,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled"
 			(at 151.13 55.88 0)
 			(effects
 				(font
@@ -6421,7 +6421,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Molex_105450-0101"
 			(at 261.62 81.28 0)
 			(effects
 				(font
@@ -6640,7 +6640,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d660290-516b-457a-8773-0064d9c1e231")
-		(property "Reference" "C10"
+		(property "Reference" "C12"
 			(at 120.65 95.2499 0)
 			(effects
 				(font
@@ -6658,7 +6658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 117.8052 100.33 0)
 			(effects
 				(font
@@ -6694,7 +6694,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C10")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -6727,7 +6727,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 127 144.78 0)
 			(effects
 				(font
@@ -6785,7 +6785,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "411683dd-6a87-446e-bb06-5b6bf40056ee")
-		(property "Reference" "C2"
+		(property "Reference" "C4"
 			(at 162.56 34.2899 0)
 			(effects
 				(font
@@ -6803,7 +6803,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 159.7152 39.37 0)
 			(effects
 				(font
@@ -6839,7 +6839,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C2")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -6871,7 +6871,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 80.01 48.26 0)
 			(effects
 				(font
@@ -6932,7 +6932,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47f01575-0d40-4392-9f59-77821b90a620")
-		(property "Reference" "C8"
+		(property "Reference" "C10"
 			(at 243.84 33.0199 0)
 			(effects
 				(font
@@ -6950,7 +6950,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 240.9952 38.1 0)
 			(effects
 				(font
@@ -6986,7 +6986,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C8")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -6994,7 +6994,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 243.84 66.04 0)
+		(at 241.3 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7003,7 +7003,7 @@
 		(fields_autoplaced yes)
 		(uuid "48035387-3425-400b-b5f6-e7e625ce21e3")
 		(property "Reference" "#FLG02"
-			(at 243.84 64.135 0)
+			(at 241.3 64.135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7012,7 +7012,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 243.84 60.96 0)
+			(at 241.3 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7020,7 +7020,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 66.04 0)
+			(at 241.3 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7029,7 +7029,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 243.84 66.04 0)
+			(at 241.3 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7038,7 +7038,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 243.84 66.04 0)
+			(at 241.3 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7087,7 +7087,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 241.3 107.95 0)
 			(effects
 				(font
@@ -7211,7 +7211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "581bbed6-dec8-4467-909a-ea2990cb7210")
-		(property "Reference" "C3"
+		(property "Reference" "C5"
 			(at 149.86 34.2899 0)
 			(effects
 				(font
@@ -7229,7 +7229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 147.0152 39.37 0)
 			(effects
 				(font
@@ -7265,7 +7265,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C3")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -7347,7 +7347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68b99608-b57c-40a8-801d-4e1c0388ab41")
-		(property "Reference" "C1"
+		(property "Reference" "C3"
 			(at 173.99 34.2899 0)
 			(effects
 				(font
@@ -7365,7 +7365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 171.1452 39.37 0)
 			(effects
 				(font
@@ -7401,7 +7401,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C1")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -7417,7 +7417,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f6878c3-0a93-4da7-8a8a-31a8fa3bd7b3")
-		(property "Reference" "C4"
+		(property "Reference" "C6"
 			(at 138.43 34.2899 0)
 			(effects
 				(font
@@ -7435,7 +7435,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 135.5852 39.37 0)
 			(effects
 				(font
@@ -7471,7 +7471,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C4")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -7502,7 +7502,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 128.27 83.82 0)
 			(effects
 				(font
@@ -7713,7 +7713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8549862c-5df2-4064-8407-60c5f63de532")
-		(property "Reference" "C9"
+		(property "Reference" "C11"
 			(at 127 57.1499 0)
 			(effects
 				(font
@@ -7731,7 +7731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 124.1552 62.23 0)
 			(effects
 				(font
@@ -7767,7 +7767,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C9")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -8264,7 +8264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 151.892 138.43 90)
 			(effects
 				(font
@@ -8382,7 +8382,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afcc9339-4bb8-459c-bf97-aae74ea2646d")
-		(property "Reference" "C12"
+		(property "Reference" "C1"
 			(at 31.75 54.6099 0)
 			(effects
 				(font
@@ -8400,7 +8400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 28.9052 59.69 0)
 			(effects
 				(font
@@ -8436,7 +8436,7 @@
 		(instances
 			(project ""
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C12")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -8452,7 +8452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b94149d1-d138-4344-b450-02ad2e08631d")
-		(property "Reference" "C6"
+		(property "Reference" "C8"
 			(at 210.82 33.0199 0)
 			(effects
 				(font
@@ -8470,7 +8470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 207.9752 38.1 0)
 			(effects
 				(font
@@ -8506,7 +8506,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C6")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8722,7 +8722,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1342c59-fac1-48d2-a5cb-10e0fb441674")
-		(property "Reference" "C11"
+		(property "Reference" "C13"
 			(at 147.32 95.2499 0)
 			(effects
 				(font
@@ -8740,7 +8740,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 144.4752 100.33 0)
 			(effects
 				(font
@@ -8776,7 +8776,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C11")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -8859,7 +8859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8d119f0-f78b-42ea-bd5b-c7e4a17a3640")
-		(property "Reference" "C13"
+		(property "Reference" "C2"
 			(at 66.04 54.6099 0)
 			(effects
 				(font
@@ -8877,7 +8877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 63.1952 59.69 0)
 			(effects
 				(font
@@ -8913,7 +8913,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "C13")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -8928,7 +8928,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dddbd206-2d58-410d-9344-c650079accd8")
-		(property "Reference" "R1"
+		(property "Reference" "R2"
 			(at 165.1 53.594 90)
 			(effects
 				(font
@@ -8944,7 +8944,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 165.1 57.658 90)
 			(effects
 				(font
@@ -8980,7 +8980,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "R1")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -9340,7 +9340,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eed1dcf8-372d-46fd-817e-4aa35b820886")
-		(property "Reference" "R3"
+		(property "Reference" "R1"
 			(at 93.98 54.6099 0)
 			(effects
 				(font
@@ -9358,7 +9358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 89.662 55.88 90)
 			(effects
 				(font
@@ -9394,7 +9394,7 @@
 		(instances
 			(project ""
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "R3")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -9410,7 +9410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa5d812c-3ef4-445c-9402-da06043bb414")
-		(property "Reference" "R2"
+		(property "Reference" "R3"
 			(at 232.41 69.8499 0)
 			(effects
 				(font
@@ -9428,7 +9428,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 228.092 71.12 90)
 			(effects
 				(font
@@ -9464,7 +9464,7 @@
 		(instances
 			(project "STM32-USBc"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
-					(reference "R2")
+					(reference "R3")
 					(unit 1)
 				)
 			)

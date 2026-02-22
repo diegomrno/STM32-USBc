@@ -5,7 +5,7 @@
 	(uuid "cbd5a7da-407b-4de2-bd9e-9cdebe4da750")
 	(paper "A4")
 	(title_block
-		(title "STM32-USB-C")
+		(title "STM32-USB-B")
 		(date "2026-02-21")
 		(rev "1.0")
 	)

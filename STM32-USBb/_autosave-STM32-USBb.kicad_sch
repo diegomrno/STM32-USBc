@@ -5586,7 +5586,7 @@
 			(uuid "f0895ad5-0228-4703-9d29-55844dd5de2f")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR011")
 					(unit 1)
@@ -5720,7 +5720,7 @@
 			(uuid "dd0cfa49-9ca0-4beb-b0f6-ed7e8576deca")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "FB1")
 					(unit 1)
@@ -5795,7 +5795,7 @@
 			(uuid "cc61df53-9581-4a61-8caf-0f6098b494e0")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "J2")
 					(unit 1)
@@ -5865,7 +5865,7 @@
 			(uuid "fe2741de-38ac-46a5-88ec-3ec45e7f0fe4")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C9")
 					(unit 1)
@@ -5935,7 +5935,7 @@
 			(uuid "18a6870a-7252-4c57-b8d7-bb07a28a2254")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C7")
 					(unit 1)
@@ -6075,7 +6075,7 @@
 			(uuid "d30b6c13-cbd2-4d71-a983-981db1c3c6f6")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "SW1")
 					(unit 1)
@@ -6207,7 +6207,7 @@
 			(uuid "e6928fe6-e2d9-4d69-9e27-192e718e860a")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR015")
 					(unit 1)
@@ -6274,7 +6274,7 @@
 			(uuid "56c1caf3-cc0f-41d3-9766-1f5d42e4047c")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR07")
 					(unit 1)
@@ -6341,7 +6341,7 @@
 			(uuid "dbf31975-8aaf-478a-a558-961d3813bd09")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR08")
 					(unit 1)
@@ -6411,7 +6411,7 @@
 			(uuid "14d569e8-f043-45c5-b838-a1d11c8f2823")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C12")
 					(unit 1)
@@ -6486,7 +6486,7 @@
 			(uuid "4b2e3bf4-09d7-411c-84ad-d7bcd3a611ee")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "J3")
 					(unit 1)
@@ -6556,7 +6556,7 @@
 			(uuid "817cfb5e-2c8c-45e8-bb0c-f5b674c7eade")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C4")
 					(unit 1)
@@ -6667,7 +6667,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_Micro-B_Wuerth_629105150521"
 			(at 264.16 77.47 0)
 			(effects
 				(font
@@ -6783,7 +6783,7 @@
 			(uuid "952057ed-5e81-4299-8ac5-a686175c3932")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C10")
 					(unit 1)
@@ -6847,7 +6847,7 @@
 			)
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "H2")
 					(unit 1)
@@ -6924,7 +6924,7 @@
 			(uuid "a30c97dc-4e77-4e9c-b4f0-29104d191196")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "J1")
 					(unit 1)
@@ -6990,7 +6990,7 @@
 			(uuid "3ba31067-cf46-46e3-889f-0af963c984e1")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR023")
 					(unit 1)
@@ -7060,7 +7060,7 @@
 			(uuid "ad31eab2-56e2-4e96-ac83-62a1560276c2")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C5")
 					(unit 1)
@@ -7126,7 +7126,7 @@
 			(uuid "7ef0950a-081e-488d-bd25-73bd28aa2136")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR013")
 					(unit 1)
@@ -7196,7 +7196,7 @@
 			(uuid "fe287f1e-32a5-4e32-a706-217668db48a2")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C3")
 					(unit 1)
@@ -7266,7 +7266,7 @@
 			(uuid "dfc742af-3d0d-4b6b-a7e7-3d83e959567e")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C6")
 					(unit 1)
@@ -7359,7 +7359,7 @@
 			(uuid "b8609970-d858-4e73-afa8-b1281ebb4d4b")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "Y3")
 					(unit 1)
@@ -7426,7 +7426,7 @@
 			(uuid "e332ead5-f6e8-4b4b-b8d7-a962265c6701")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR03")
 					(unit 1)
@@ -7490,7 +7490,7 @@
 			)
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "H4")
 					(unit 1)
@@ -7560,7 +7560,7 @@
 			(uuid "97337515-f60d-4869-bf55-9b3df3ca82df")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C11")
 					(unit 1)
@@ -7756,7 +7756,7 @@
 			)
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "H3")
 					(unit 1)
@@ -7822,7 +7822,7 @@
 			(uuid "16b4001f-52a9-47dd-92a3-1593b4519537")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR022")
 					(unit 1)
@@ -7954,7 +7954,7 @@
 			(uuid "7de3459c-b10a-4078-906c-7d5decfb960d")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR012")
 					(unit 1)
@@ -8021,7 +8021,7 @@
 			(uuid "81e68d4f-4af0-42cd-981e-70e0404b93e2")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR010")
 					(unit 1)
@@ -8087,7 +8087,7 @@
 			(uuid "75e7c5e4-59a8-481d-a529-c590b3053b9c")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR02")
 					(unit 1)
@@ -8157,7 +8157,7 @@
 			(uuid "1f12d165-38f5-47d3-b2b0-9cd53a96063b")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "R5")
 					(unit 1)
@@ -8223,7 +8223,7 @@
 			(uuid "86d984ca-6274-40fe-9da4-fc11c9307f79")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR04")
 					(unit 1)
@@ -8363,7 +8363,7 @@
 			(uuid "a5a414ca-55fe-4480-b8bd-aedd33e4161b")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C8")
 					(unit 1)
@@ -8430,7 +8430,7 @@
 			(uuid "0f8c7cf2-1362-47e7-b19b-532c02d18040")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR05")
 					(unit 1)
@@ -8496,7 +8496,7 @@
 			(uuid "e1ac52da-594f-4928-9b36-3e930592b117")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR021")
 					(unit 1)
@@ -8563,7 +8563,7 @@
 			(uuid "ec11d448-d752-45cd-9068-fea891963f53")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR09")
 					(unit 1)
@@ -8633,7 +8633,7 @@
 			(uuid "7ab79423-f5aa-4738-976e-c45ea5d03c6f")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C13")
 					(unit 1)
@@ -8700,7 +8700,7 @@
 			(uuid "7c9839fe-d345-4a95-9722-f3607ed157b2")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR06")
 					(unit 1)
@@ -8770,7 +8770,7 @@
 			(uuid "b393c0ff-aefc-405a-abff-3fc8ef0c6cbf")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "C2")
 					(unit 1)
@@ -8901,7 +8901,7 @@
 			(uuid "6c8eb78e-f53d-4759-8909-6ce54adbe6dd")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "R2")
 					(unit 1)
@@ -9246,7 +9246,7 @@
 			(uuid "7bce83e0-9391-4ccf-a3af-3f7feaa7862c")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "U1")
 					(unit 1)
@@ -9385,7 +9385,7 @@
 			(uuid "06710818-785d-461b-b2ab-bb8f7ba5a0c1")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "R3")
 					(unit 1)
@@ -9451,7 +9451,7 @@
 			(uuid "58081d0e-d120-4d37-8d32-9732b3f214af")
 		)
 		(instances
-			(project "STM32-USBc"
+			(project "STM32-USBb"
 				(path "/cbd5a7da-407b-4de2-bd9e-9cdebe4da750"
 					(reference "#PWR014")
 					(unit 1)
